@@ -2,13 +2,3 @@
 Introduction to Software Engineering
 
 
-Team Allocation: 
-Team Leader - Gagandeep Gill
-Client -  
-Developer -  
-Tester -  
-Requirement Engineer -  
-
-Project Selected: ATM 
-
-Perferred Programming Language: Java
